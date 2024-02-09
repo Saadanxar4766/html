@@ -1,0 +1,78 @@
+html {
+}
+body {
+  background-color: black transparent;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+nav {
+  border: 5px solid black transparent;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.div1 {
+  padding: 20px;
+}
+
+.div2 {
+  display: flex;
+  padding: 10px;
+  justify-content:center;
+}
+.div2 > div {
+  border: 2px solid black;
+
+  margin: 10px;
+}
+
+.div3 {
+  display: flex;
+  padding: 10px;
+  margin-right: 10px;
+}
+.div3 > div {
+  margin: 10px;
+  gap: 20px;
+}
+.image1{
+  text-align: center; 
+  aspect-ratio: 3*2;
+  aspect-ratio: 3*2;
+
+  
+  
+}
+.v{
+  text-align: center;
+  color:white;
+  background-color: gray;
+  height: 100px;
+  padding: 20px;
+ 
+}
+b{
+  font-size: 50px;
+}
+
+.main{
+  display: grid;
+  aspect-ratio: 3*2;
+}
+.apple{
+margin: 20px;
+}
+
+
+
+
+
+
+
+
